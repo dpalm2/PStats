@@ -1,0 +1,20 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# PStats 
+
+The goal of PStats  is to do simple physics computations. With Pstats the user will be able to calculate distance and velocity using different kinematic equations.
+
+
